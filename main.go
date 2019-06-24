@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"./topgo"
+	"github.com/hapi666/topgo"
 )
 
 type stat struct {
